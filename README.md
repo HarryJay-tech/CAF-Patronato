@@ -1,19 +1,6 @@
 # CAF & Patronato – Harrison
 
-A clean and responsive static website for **CAF & Patronato – Harrison**, offering a full range of online tax, welfare, and immigration support services.  
-The website also includes a dedicated section for **affiliate ticket links**, allowing visitors to access partner offers such as event tickets, travel deals, and recommended products.
-
-This project is lightweight and optimized for free hosting on **GitHub Pages** or **Netlify**.
-
----
-
-## 🌐 Live Demo
-*(Add your site link here once published)*  
-Example: https://your-username.github.io/caf-patronato-harrison
-
----
-
-## 📌 Features
+**CAF & Patronato**, offering a full range of online tax, welfare, and immigration support services.  
 
 ### ✔ CAF & Patronato Services
 - Dichiarazione dei redditi (730)
@@ -26,6 +13,16 @@ Example: https://your-username.github.io/caf-patronato-harrison
 - Contratti di locazione
 - Curriculum Vitae
 - Assistenza per cittadini italiani e stranieri
+- Servizi principali:
+- Dichiarazione dei redditi (Modello 730 e Redditi PF)
+- ISEE e aggiornamenti DSU
+- NASpI / Disoccupazione
+- Permesso di soggiorno e pratiche per cittadini stranieri
+- Richiesta bonus e agevolazioni (bonus sociale, famiglia, maternità, ecc.)
+- Pensione, invalidità e contributi previdenziali
+- Attivazione SPID e servizi digitali
+- Contratti di locazione e registrazioni
+- Redazione e aggiornamento del Curriculum Vitae
 
   
 
